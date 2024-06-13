@@ -37,3 +37,4 @@ Optimize Your Strategy: Use our optimization tools to fine-tune your strategy ba
 
 Engage with the Community: Join online communities to collaborate with fellow traders, share insights, and learn from each other's experiences.
 
+Manvendra BSdk
